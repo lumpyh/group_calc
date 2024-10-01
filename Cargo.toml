@@ -1,0 +1,8 @@
+[package]
+name = "rocket_test"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+itertools = "0.13.0"
+rocket = "0.5.1"
